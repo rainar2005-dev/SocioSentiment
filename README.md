@@ -5,6 +5,10 @@ Multilingual Sentiment and Emotion Analysis system using Machine Learning and NL
 
 SocioSentiment is a machine learning and NLP based web application that analyzes public opinion on social issues using multilingual text inputs. The system performs both sentiment classification and emotion detection to provide deeper insights into public reactions.
 
+## 🚀 Live App
+Try the app here: [Open SocioSentiment] (https://sociosentiment-cwqzys8psfwcr4rvgg7udt.streamlit.app/)
+
+
 ## Features
 - Multilingual text analysis (English + Hindi)
 - Sentiment classification: Positive, Negative, Neutral
